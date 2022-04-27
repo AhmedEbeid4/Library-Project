@@ -6,7 +6,7 @@
   We had used JTable class to store our data in a table <br>
   We had used <b>KGradientPanel</b> package to make the design more professional<br>
   The application after dealing with customer you can use the application to store the operation 'receipt' in txt file by clicking on save button by <b>File Writer</b> class and the receipt will contain the operation , the total price , the name of the person who had done this operation and the time of this operation<br>
-  languages used: <b>Java</b> ☕, <b>SQL</b><br>
+  languages used: <b>Java</b> ☕, <b>SQL</b><br><br>
   IDE: <b>Eclipse</b>👨🏻‍💻<br>
   DBMS: <b>MYSQL</b> 🐬
 </p>
